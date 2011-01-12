@@ -2,7 +2,7 @@ Ruby command line tool which solves sudoku puzzles.
 
 The implementation (less than 10 lines) of the class method *Soduku.from_text* in lib/sudoku.rb has been removed. By studying the source code and not making ANY changes except for the one method, we would like you to make it work like the below example demonstrates. With the method implemented, the solver should be able to solve all of the included challenges.
 
-Once solved, please save the implmentation of *Soduku.from_text* in a [private gist](https://gist.github.com/) and provide us with the link.
+Once solved, please save the implementation of *Soduku.from_text* in a [private gist](https://gist.github.com/) and provide us with the link.
 
     tel@tel-imac sudoku $ ruby sudoku.rb challenges/board_13.txt
 
