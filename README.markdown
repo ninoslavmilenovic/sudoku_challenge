@@ -4,6 +4,7 @@ The implementation (less than 10 lines) of the class method Soduku.from_text in 
 
     tel@tel-imac sudoku $ ruby sudoku.rb challenges/board_13.txt
 
+
     Input:
     ------------------------------
      4     3 |       6 |    9    |
